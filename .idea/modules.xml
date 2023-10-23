@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hellow-word/hellow-word.iml" filepath="$PROJECT_DIR$/hellow-word/hellow-word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pika/pika.iml" filepath="$PROJECT_DIR$/pika/pika.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/proyekto2.iml" filepath="$PROJECT_DIR$/.idea/proyekto2.iml" />
     </modules>
   </component>
